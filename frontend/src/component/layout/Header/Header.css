@@ -1,0 +1,13 @@
+.speedDial {
+    position: fixed;
+    top: 3vmax;
+    right: 3vmax;
+    background-color: transparent;
+    overflow: hidden;
+}
+
+.speedDialIcon {
+    width: 100%;
+    height: 100%;
+    border-radius: 100%;
+}
